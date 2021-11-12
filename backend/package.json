@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BerkkanB",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.23.1",
+    "mongoose": "^6.0.12"
+  }
+}
