@@ -9,7 +9,9 @@
   "author": "BerkkanB",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "fastify": "^3.24.0",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.13"
   }
 }
